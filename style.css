@@ -1,0 +1,143 @@
+/*Body*/
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.profile{
+    width: 100%;
+    float: left;
+    color: black;
+    background-image: url(images/background.jpg);
+    background-size: cover;
+}
+.foto{
+    width: 50%;
+    float: left;
+    padding: 15px;
+    margin: 0.25%;
+    
+}
+.foto img{
+    height: 300px;
+    width: 200px;
+    float: left;
+}
+.foto h1{
+    padding: 40px, 50px;
+    float: left;
+}
+.foto h2{
+    background-color: white;
+}
+.detail{
+    float: left;
+     text-align: center;
+     width: 100%;   
+}
+.detail h3{
+    margin-block-end: 2px;
+}
+.detail p{
+    margin-block-start: 2px; 
+}
+
+.pengalaman_organisasi{
+    width: 100%;
+    float: left;
+    text-align: center;
+    color: black;
+    background-color:  rgb(204, 203, 203);;
+    background-size: cover;
+}
+
+.pengalaman_organisasi h2{
+    text-align: center;
+    background-color: white;
+    margin-top: 50px;
+    padding: 15px;
+}
+.pengalaman_organisasi h3{
+    text-align: left;
+}
+
+
+
+.kepanitiaan{
+    width: 100%;
+    float: left;
+    text-align: center;
+    color: black;
+    background-color: rgb(204, 203, 203);
+    background-size: cover;
+}
+
+.kepanitiaan h2{
+    text-align: center;
+    background-color: white;
+    margin-top: 50px;
+    padding: 15px;
+}
+.kepanitiaan h3{
+    text-align: left;
+}
+
+
+.pendidikan{
+    width: 100%;
+    float: left;
+    text-align: center;
+    color: black;
+    background-color: rgb(204, 203, 203);
+    background-size: cover;
+}
+
+.pendidikan h2{
+    text-align: center;
+    background-color: white;
+    margin-top: 50px;
+    padding: 15px;
+}
+.pendidikan h3{
+    text-align: left;
+}
+.pendidikan h4{
+    text-align: left;
+}
+
+.footer {
+    background-position-y: center;
+    height: 120px;
+    float: left;
+    width: 100%;
+    padding: 10px 30px;
+    color: black;
+    margin-top:  5px;
+    background-color: rgb(204, 203, 203);
+}
+.listfooter ul{
+    float: right;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    align-items: center;
+}
+.listfooter li{
+    height: 24px;
+    list-style: none;
+    margin: 5px;
+}
+.footer h2{
+    float: left;
+}
+.footer a{
+    float: left;
+    color: black;
+    text-decoration: none;
+}
+.footer img{
+    float: left;
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+}
